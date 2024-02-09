@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/6rm6n/letslunch
-- 🌱 I’m currently learning full stack development
-- 👯 I’m looking to collaborate on anyone who enjoys learning!
+- 🌱 I’m currently immersed in full stack development
+- 🔭 Currently working on a cross platform app (https://github.com/6rm6n/letslunch)
+- 👯 Would love to collaborate with anyone who enjoys learning and taking on challenges!
 
 <!--
 **SaurabhBasak/SaurabhBasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
