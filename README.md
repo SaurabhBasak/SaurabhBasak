@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently immersed in full stack development
+- 🌱 I enjoy building full stack projects and am learning AI/ML!
 - 👯 Would love to collaborate with anyone who enjoys learning and taking on challenges!
 
 <!--
